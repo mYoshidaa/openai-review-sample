@@ -1,4 +1,5 @@
 # openai-review-sample
+Pull Requestで`/review`とすると差分をレビューしてくれるworkflow
 
 # 参考
 
